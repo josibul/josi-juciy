@@ -1,2 +1,5 @@
 h3{color: indigo;font-size: larger;}
-p{background-color: brown;}
+div{background-color: brown;
+padding: 10px;
+margin: 15px;
+}
